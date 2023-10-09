@@ -1,7 +1,22 @@
 ### Hi there 👋
 
 
+<i></i>
+<b></b>
 
+<p align="center">
+   
+   
+  
+   <img src="data/icons/html.svg" alt="html" width="50">
+   <img src="data/icons/css.svg" alt="css" width="50">
+   <img src="data/icons/js2.svg" alt="javaScript" width="50">
+   
+   <img src="data/icons/python.svg" alt="python" width="50">
+   
+   
+   
+</p>
 
 <img src="mongo2.svg" alt="mongo" width="50">
 
