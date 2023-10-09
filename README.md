@@ -1,8 +1,11 @@
-### Hi there 👋
+# Hi there 👋
+#This is my README file.  
+
 
 
 <i></i>
 <b></b>
+🌱 **I’m currently learning:**
 
 <p align="center">
    
@@ -18,7 +21,7 @@
    
 </p>
 
-<img src="mongo2.svg" alt="mongo" width="50">
+
 
 
 <!--
