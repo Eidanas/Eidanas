@@ -1,25 +1,17 @@
 # Hi there 👋
-#This is my README file.  
-
-
+#This is my README file. 
 
 <i></i>
 <b></b>
 🌱 **I’m currently learning:**
-
 <p align="left">
-   
-   
-  
-   <img src="html.svg" alt="html" width="50">
-   <img src="css.svg" alt="css" width="50">
-   <img src="js2.svg" alt="javaScript" width="50">
-   
-   <img src="python.svg" alt="python" width="50">
-   
-   
-   
+<img src="html.svg" alt="html" width="50">
+<img src="css.svg" alt="css" width="50">
+<img src="js2.svg" alt="javaScript" width="50">
+ <img src="python.svg" alt="python" width="50">
 </p>
+
+
 
 
 
