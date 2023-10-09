@@ -7,7 +7,7 @@
 <b></b>
 🌱 **I’m currently learning:**
 
-<p align="center">
+<p align="left">
    
    
   
